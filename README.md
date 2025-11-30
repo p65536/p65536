@@ -1,8 +1,8 @@
 # Hi there
 
 I'm a hobbyist programmer sharing my personal scripts in case they’re useful.  
-Most of them are small tools and userscripts I originally wrote for myself,  
-but I decided to make them public in case someone else finds them helpful.
+Most of them are small tools I originally built for myself,
+but I decided to make them public in case others might find them helpful.
 
 ---
 
